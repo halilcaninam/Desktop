@@ -1,0 +1,36 @@
+img{
+    width: 100%;
+    max-height: 8cm;
+    min-width: 0cm;
+    min-height: 0cm;
+    margin:0 auto;
+    opacity: 0.90;
+}
+*{
+    background-image: url(arkaplan.jpg);
+    margin: auto auto;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+h1{
+    background-image: url(üçgenler.webp);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: lighter;
+}
+ul ,p{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    background-color: mediumorchid;
+    color: rgba(110, 12, 129, 0.651);
+    font-family: cursive;
+}
+a{
+    text-align: center;
+    background-color: lightcoral;
+    font-family: fantasy;
+    color:rgba(49, 26, 56, 0.973);
+    font-weight: bolder;
+}
